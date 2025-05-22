@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritsth.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
