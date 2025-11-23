@@ -1,7 +1,7 @@
 # Hi, I'm Ritika Shrestha 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-shrestha) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shrest_r2)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-shrestha-817555252/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ritsth)  
 
 📍 Granville, OH | 📧 shrest_r2@denison.edu  
 
