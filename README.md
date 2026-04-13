@@ -8,7 +8,7 @@
 ## 💡 About Me
 Hi, I am a senior double-majoring in computer science and math at Denison University. I interned as a software engineer at **TransCore**, where I worked with my team to build an AI-powered customer service chatbot. We used large language models such as **LLaMA**, **Mistral qwen**, combined with **retrieval-augmented generation**, and deployed the system on Google Cloud virtual machines to automate FAQ responses and toll processing inquiries.
 
-Recently, as a **Breakthrough Tech AI fellow**, I worked on a project with **Nestlé** to identify flavor trends among consumers and predict future market demands.
+As a **Breakthrough Tech AI fellow**, I worked on a project with **Nestlé** to identify flavor trends among consumers and predict future market demands.
 This experience sparked my interest in building automation solutions that improve efficiency and enhance the user experience.
 
 ---
@@ -26,6 +26,7 @@ This experience sparked my interest in building automation solutions that improv
 **Frameworks & Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
