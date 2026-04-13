@@ -6,7 +6,9 @@
 📍 Granville, OH | 📧 shrest_r2@denison.edu  
 ---
 ## 💡 About Me
-Hi, I am a senior double-majoring in computer science and math at Denison University. I interned as a software engineer at TransCore, where I worked with my team to build an AI-powered customer service chatbot.
+Hi, I am a senior double-majoring in computer science and math at Denison University. I interned as a software engineer at **TransCore**, where I worked with my team to build an AI-powered customer service chatbot. We used large language models such as **LLaMA**, **Mistral qwen**, combined with **retrieval-augmented generation**, and deployed the system on Google Cloud virtual machines to automate FAQ responses and toll processing inquiries.
+
+
 ---
 
 ## 🛠 Skills
