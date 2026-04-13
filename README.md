@@ -8,6 +8,8 @@
 ## 💡 About Me
 Hi, I am a senior double-majoring in computer science and math at Denison University. I interned as a software engineer at **TransCore**, where I worked with my team to build an AI-powered customer service chatbot. We used large language models such as **LLaMA**, **Mistral qwen**, combined with **retrieval-augmented generation**, and deployed the system on Google Cloud virtual machines to automate FAQ responses and toll processing inquiries.
 
+Recently, as a **Breakthrough Tech AI fellow**, I worked on a project with **Nestlé** to identify flavor trends among consumers and predict future market demands.
+This experience sparked my interest in building automation solutions that improve efficiency and enhance the user experience.
 
 ---
 
