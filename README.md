@@ -6,8 +6,7 @@
 📍 Granville, OH | 📧 shrest_r2@denison.edu  
 ---
 ## 💡 About Me
-Passionate **Computer Science & Math student** at Denison University. I love building **AI-powered applications**, **full-stack projects**, and contributing to **scalable software solutions**.  
-
+Hi, I am a senior double-majoring in computer science and math at Denison University. I interned as a software engineer at TransCore, where I worked with my team to build an AI-powered customer service chatbot.
 ---
 
 ## 🛠 Skills
