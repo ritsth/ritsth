@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="732" height="610" viewBox="0 0 732 610" role="img" aria-label="Open source contributions">
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="508" viewBox="0 0 732 508" role="img" aria-label="Open source contributions">
 <rect x="6" y="6" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
 <circle cx="26" cy="30" r="4.5" fill="#2da44e"/>
 <text x="38" y="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">outlines</text>
@@ -26,26 +26,27 @@
 
 <rect x="374" y="108" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
 <circle cx="394" cy="132" r="4.5" fill="#2da44e"/>
-<text x="406" y="137" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">strawberry</text>
-<text x="710" y="136" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 4.7k</text>
-<text x="390" y="158" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Relay paging + schema-codegen names</text>
-<rect x="390.0" y="168" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="411.5" y="180" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4516</text>
-<rect x="439.0" y="168" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="460.5" y="180" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4543</text>
-<rect x="488.0" y="168" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="509.5" y="180" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4551</text>
+<text x="406" y="137" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">redis-py</text>
+<text x="710" y="136" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 13.6k</text>
+<text x="390" y="158" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Fix lat/lon swap in search geo() helper</text>
+<rect x="390.0" y="168" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="411.5" y="180" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4223</text>
 
 <rect x="6" y="210" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
 <circle cx="26" cy="234" r="4.5" fill="#2da44e"/>
-<text x="38" y="239" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">pydantic-settings</text>
-<text x="342" y="238" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 1.4k</text>
-<text x="22" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Dotenv extras vs complex-field prefix</text>
-<rect x="22.0" y="270" width="37.0" height="17" rx="6" fill="#eaeef2"/><text x="40.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#912</text>
+<text x="38" y="239" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">statsmodels</text>
+<text x="342" y="238" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 11.5k</text>
+<text x="22" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Validators silently accepted None</text>
+<rect x="22.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="43.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#9985</text>
+<rect x="71.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="92.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#9987</text>
 
 <rect x="374" y="210" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-<circle cx="394" cy="234" r="4.5" fill="#bf8700"/>
-<text x="406" y="239" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">mem0</text>
-<text x="710" y="238" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 61.5k</text>
-<text x="390" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Stop silent memory loss on JSON-in-prose</text>
-<rect x="390.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="411.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#5999</text>
+<circle cx="394" cy="234" r="4.5" fill="#2da44e"/>
+<text x="406" y="239" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">strawberry</text>
+<text x="710" y="238" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 4.7k</text>
+<text x="390" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Relay paging + schema-codegen names</text>
+<rect x="390.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="411.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4516</text>
+<rect x="439.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="460.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4543</text>
+<rect x="488.0" y="270" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="509.5" y="282" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4551</text>
 
 <rect x="6" y="312" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
 <circle cx="26" cy="336" r="4.5" fill="#bf8700"/>
@@ -74,18 +75,8 @@
 <rect x="77.0" y="474" width="49.0" height="17" rx="6" fill="#eaeef2"/><text x="101.5" y="486" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#22224</text>
 <rect x="132.0" y="474" width="49.0" height="17" rx="6" fill="#eaeef2"/><text x="156.5" y="486" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#22228</text>
 
-<rect x="374" y="414" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-<circle cx="394" cy="438" r="4.5" fill="#bf8700"/>
-<text x="406" y="443" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">arrow</text>
-<text x="710" y="442" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 16.9k</text>
-<text x="390" y="464" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Drop removed pyarrow.HdfsFile ref</text>
-<rect x="390.0" y="474" width="49.0" height="17" rx="6" fill="#eaeef2"/><text x="414.5" y="486" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#50397</text>
-
-<rect x="6" y="516" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-<circle cx="26" cy="540" r="4.5" fill="#bf8700"/>
-<text x="38" y="545" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#0969da">litestar</text>
-<text x="342" y="544" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#59636e">★ 8.4k</text>
-<text x="22" y="566" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">Resolve litestar.di in TYPE_CHECKING</text>
-<rect x="22.0" y="576" width="43.0" height="17" rx="6" fill="#eaeef2"/><text x="43.5" y="588" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#59636e">#4896</text>
+<rect x="374" y="414" width="352" height="88" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="390" y="443" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#59636e">and more …</text>
+<text x="390" y="464" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#414b56">arrow · litestar · mem0 · pydantic-settings</text>
 
 </svg>
