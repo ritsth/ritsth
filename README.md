@@ -6,11 +6,11 @@
 📍 Granville, OH | 📧 shrest_r2@denison.edu  
 ---
 ## 💡 About Me
-Hi, I am Ritika, and I just completed my bachelor's in computer science and math at Denison University. Last summer, I interned as a software engineer at TransCore, where I worked with my team to build an AI-powered customer service chatbot. I used large language models such as LLaMA, Mistral, and Qwen, combined with retrieval-augmented generation. I deployed the system on Google Cloud virtual machines to automate FAQ responses and toll processing inquiries.
+Hi, I am Ritika, and I just completed my bachelor's in computer science and math at Denison University. Last summer, I interned as a software engineer at **TransCore**, where I worked with my team to build an AI-powered customer service chatbot. I used large language models such as LLaMA, Mistral, and Qwen, combined with retrieval-augmented generation. I deployed the system on Google Cloud virtual machines to automate FAQ responses and toll processing inquiries.
 
-Recently, as a Cornell Tech fellow, I also worked on a project with Nestlé to identify flavor trends among consumers and predict future market demands.
+Recently, as a **Cornell Tech fellow**, I also worked on a project with **Nestlé** to identify flavor trends among consumers and predict future market demands.
 
-These experiences sparked my interest in building automation solutions that improve efficiency and enhance the user experience, which is one of the reasons I am particularly interested in this position.
+These experiences sparked my interest in building automation solutions that improve efficiency and enhance the user experience.
 
 
 ---
